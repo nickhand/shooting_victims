@@ -9,7 +9,7 @@ tags:
   - Data Resource
 excerpt: "A background introduction of gun violence"
 altair-loader:
-  altair-chart-1:"charts/growth_rate.json"
+  altair-chart-1: "charts/growth_rate.json"
 toc: true
 toc_sticky: true
 ---
