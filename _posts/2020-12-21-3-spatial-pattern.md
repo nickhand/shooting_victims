@@ -18,7 +18,7 @@ Below is an interactive map point out the location of each shooting victim in 20
 
 ## Visualizing Number of Victims at a Tract Scale (hvplot & folium)
 ### Year
-Comparing the victims distribution of each year, the hot spot doesn't change too much from 2015 to 2020. Based on the visual obeservation, the high risky area of shrinked from 2019 to 2020. Since the total number of victims surged in 2020, which means victims distribution is highly concentrated this year.(Please [shootings_time][click] here to see the interactive map)
+Comparing the victims distribution of each year, the hot spot doesn't change too much from 2015 to 2020. Based on the visual obeservation, the high risky area of shrinked from 2019 to 2020. Since the total number of victims surged in 2020, which means victims distribution is highly concentrated this year.(Please [click][shootings_time] here to see the interactive map)
 
 ![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_time.gif)
 
@@ -60,6 +60,8 @@ Top 5 clusters are selected and visualized using `matplotlib`. The average value
 ![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/k-means.png)
 
 Based on the results of 5 clusters. Shootings are more likely to happen at night, wihch corresponds to our previous point of view. The average month is during the summer vacation, which is quite close to the time of George Floyd protests.
+
+---
 | Label | Weekday  | Hour      | Month     |
 | ----- | -------- | --------- | --------- |
 | 4     | 2.661072 | 18.966900 | 8.152448  |
@@ -67,6 +69,7 @@ Based on the results of 5 clusters. Shootings are more likely to happen at night
 | 5     | 3.957529 | 1.629344  | 7.901544  |
 | 11    | 4.139241 | 19.025316 | 1.594937  |
 | 7     | 1.986111 | 20.305556 | 10.111111 |
+---
 
 We also plot Top 4 clusters separately. Residents could have a check whether or not their house is close to a cluster according to the base map.
 
@@ -74,6 +77,7 @@ We also plot Top 4 clusters separately. Residents could have a check whether or 
 
 ## Recommendations
 - For Citizens
+  - Due to safety concerns
 - For Police Department
 
 [shooting year]: https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_year.html
