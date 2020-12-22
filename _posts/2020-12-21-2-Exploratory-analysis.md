@@ -60,3 +60,4 @@ Following is a chart showing the number of male and female victims considering t
 - The number of shooting victims varies greatly in different police district.
 
 In the next section, we'll dig deeper in time and spatial pattern of history shootings victims.
+<div id="hv-chart-1"></div>
