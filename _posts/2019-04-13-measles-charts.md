@@ -10,7 +10,7 @@ altair-loader:
   altair-chart-3: "charts/hour_female.json"
   altair-chart-4: "charts/hour_district.json"
 hv-loader:
-  hv-chart-1: "charts/shootings_hour.html"
+  hv-chart-1: "charts/shootings_sex.html"
 toc: true
 toc_sticky: true
 ---
@@ -46,6 +46,8 @@ In this part, we try to exlore the distribution of male and femal victims from t
 
 <div id="altair-chart-2"></div>
 
-<div id="altair-chart-2"></div>
+<div id="altair-chart-3"></div>
+
+<div id="altair-chart-4"></div>
 
 <div id="hv-chart-1"></div>
