@@ -1,6 +1,6 @@
 ---
 title: " Do Gun Violence equally threaten the lives in Philly? "
-date: 2019-12-11T15:34:30-04:00
+date: 2020-12-21T15:34:30-04:00
 published: true
 tags: [python, matplotlib, altair, interactive map]
 excerpt: "Exploratory analysis of shooting victims"
