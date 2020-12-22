@@ -10,7 +10,7 @@ altair-loader:
   altair-chart-3: "charts/hour_female.json"
   altair-chart-4: "charts/hour_district.json"
 hv-loader:
-  hv-chart-1: "charts/shootings_sex.html"
+  hv-chart-1: "charts/shootings_sex2.html"
 toc: true
 toc_sticky: true
 ---
