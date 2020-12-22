@@ -23,17 +23,17 @@ Comparing the victims distribution of each year, the hot spot doesn't change too
 ![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_time.gif)
 
 ### Hour
-Comparing the victims distribution by hourly interval, north of downtown is always the hot spot area. From 9 p.m. to 23 p.m., shootings are clustered at the northwest of city. (Please [shootings_hour][click] here to see the interactive map)
+Comparing the victims distribution by hourly interval, north of downtown is always the hot spot area. From 9 p.m. to 23 p.m., shootings are clustered at the northwest of city. (Please [click](https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_hour.html) here to see the interactive map)
 
 ![shootings_hour](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_hour.gif)
 
 ### Gender
-Though the count of male victims far exceeds the female, the spatial distribution of two genders show a similar pattern.(Please [shootings_sex][click] here to see the interactive map)
+Though the count of male victims far exceeds the female, the spatial distribution of two genders show a similar pattern.(Please [click](https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_sex.html) here to see the interactive map)
 
 ![shootings_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_sex.gif)
 
 ### Race
-The spatial distribution of different races is significantly different. As we can see, white victims clustered at Upper North, while black victims widely distributed in Upper North, West, Oak Lane and Lower Northeast. (Please [shootings_race][click] here to see the interactive map)
+The spatial distribution of different races is significantly different. As we can see, white victims clustered at Upper North, while black victims widely distributed in Upper North, West, Oak Lane and Lower Northeast. (Please [click](https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_race.html) here to see the interactive map)
 
 ![shootings_race](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_race.gif)
 
@@ -79,8 +79,3 @@ We also plot Top 4 clusters separately. Residents could have a check whether or 
 - For Citizens
   - Due to safety concerns
 - For Police Department
-
-[shootings year]: https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_year.html
-[shootings hour]: https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_hour.html
-[shootings sex]: https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_sex.html
-[shootings age]: https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_age.html
