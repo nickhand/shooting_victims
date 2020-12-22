@@ -13,14 +13,24 @@ toc: true
 toc_sticky: true
 ---
 
+## Spatial Distribution of Shooting Victims (folium)
 <div id="folium-chart-1"></div>
 
-![growth_by_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_year.gif)
 
-![growth_by_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_hour.gif)
+## Visualizing Number of Victims at a tract scale
 
-![growth_by_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_sex.gif)
+![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_time.gif)
 
-![growth_by_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_race.gif)
+![shootings_hour](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_hour.gif)
+
+![shootings_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_sex.gif)
+
+![shootings_race](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_race.gif)
 
 <div id="folium-chart-2"></div>
+
+## Recognizing the Clusters with K-Means Analysis
+
+![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/k-means.png)
+
+![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/cluster.png)
