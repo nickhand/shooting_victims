@@ -1,5 +1,5 @@
 ---
-title: "Spatial Pattern of History Shooting Victims"
+title: "Spatial Pattern of Historical Shooting Victims"
 date: 2020-12-21T15:34:30-04:00
 published: true
 tags: [folium, nvplot, interactive map, K-means]
