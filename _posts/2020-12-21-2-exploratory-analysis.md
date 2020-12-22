@@ -11,6 +11,9 @@ altair-loader:
   altair-chart-4: "charts/hour_district.json"
 hv-loader:
   hv-chart-1: "charts/shootings_sex2.html"
+  hv-chart-2: "charts/shootings_sex.html"
+  hv-chart-3: "charts/shootings_year.html"
+  hv-chart-4: "charts/shootings_race.html"
 toc: true
 toc_sticky: true
 ---
@@ -59,6 +62,20 @@ Following is a chart showing the number of male and female victims considering t
 - Shooting incidents occur more frequently at night than during the day.
 - The number of shooting victims varies greatly in different police district.
 
+<div id="hv-chart-1"></div>
+
+<div id="hv-chart-2"></div>
+
+<div id="hv-chart-3"></div>
+
+<div id="hv-chart-4"></div>
+
 In the next section, we'll dig deeper in time and spatial pattern of history shootings victims.
 
 <div id="hv-chart-1"></div>
+
+<div id="hv-chart-2"></div>
+
+<div id="hv-chart-3"></div>
+
+<div id="hv-chart-4"></div>
