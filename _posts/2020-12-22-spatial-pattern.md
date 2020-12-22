@@ -7,8 +7,6 @@ excerpt: "Visualizing the spatial distribution of shooting victims and K-means c
 folium-loader:
   folium-chart-1: ["charts/crime_cluster.html", "400"]
   folium-chart-2: ["charts/average_age.html", "400"]
-hv-loader:
-  hv-chart-1: "charts/shootings_sex.html"
 toc: true
 toc_sticky: true
 ---
