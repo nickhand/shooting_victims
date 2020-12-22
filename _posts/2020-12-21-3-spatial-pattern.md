@@ -61,15 +61,7 @@ Top 5 clusters are selected and visualized using `matplotlib`. The average value
 
 Based on the results of 5 clusters. Shootings are more likely to happen at night, wihch corresponds to our previous point of view. The average month is during the summer vacation, which is quite close to the time of George Floyd protests.
 
----
-| Label | Weekday  | Hour      | Month     |
-| ----- | -------- | --------- | --------- |
-| 4     | 2.661072 | 18.966900 | 8.152448  |
-| 2     | 3.011070 | 20.619926 | 8.367159  |
-| 5     | 3.957529 | 1.629344  | 7.901544  |
-| 11    | 4.139241 | 19.025316 | 1.594937  |
-| 7     | 1.986111 | 20.305556 | 10.111111 |
----
+![table](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/table.png)
 
 We also plot Top 4 clusters separately. Residents could have a check whether or not their house is close to a cluster according to the base map.
 
@@ -77,5 +69,10 @@ We also plot Top 4 clusters separately. Residents could have a check whether or 
 
 ## Recommendations
 - For Citizens
-  - Due to safety concerns
+  - Due to safety concerns, it's better to stay at home after 9 p.m., especially for the residents living close to the hot spot area.
+  - Since the risk of shootings varied for different time of day, it's better to check the risk of destination before going out.
+  - If it is possible, choose a house far from clustering area.
 - For Police Department
+  - Arrange night patrols and deploy more police forces in high-risk areas.
+  - Strengthen safety education for people aged 20 to 35. Recommend reducing travel at night.
+  - Raise the defense awareness of residents living close to high-risk neighborhood.
