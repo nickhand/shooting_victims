@@ -1,5 +1,5 @@
 ---
-title: " What are people’s attitudes towards Gun Violence on Twitter? "
+title: " What are People’s Attitudes towards Gun Violence on Twitter? "
 date: 2020-12-19T15:34:30-04:00
 published: true
 tags: [python, matplotlib, altair, interactive map]
@@ -27,8 +27,12 @@ Before counting the frequency of words, a series of cleaning steps are processed
 - Remove searching words
 - Convert all letters to lowercase
 
-Below is a table showing Top 20 common words found in tweets. From `people`, `time`, `need` and `stop`, we infer that most people hold negative point of shooting violence. Gun violence is not a personal issue, but seriously affects social safety and lives of us. Word cloud is also plotted with Top 200 words using `WordCloud` package. As we can see, recent social events and famous people are also listed in the common words, such as `covid`, `lockdown` and `trump`.
+Below is a table showing Top 20 common words found in tweets. From `people`, `time`, `need` and `stop`, we infer that most people hold negative point of shooting violence. Gun violence is not a personal issue, but seriously affects social safety and lives of us. 
+
 ![common_words](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/common_words.png)
+
+Word cloud is also plotted with Top 200 words using `WordCloud` package. As we can see, recent social events and famous people are also listed in the common words, such as `covid`, `lockdown` and `trump`.
+
 ![word_cloud](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/word_cloud.png)
 
 ##Sentiment Analysis
