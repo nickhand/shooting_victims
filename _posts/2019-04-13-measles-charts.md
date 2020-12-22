@@ -25,11 +25,11 @@ The open data contains abundant information shootings, including the age, gender
 
 Below is a bar chart accumulating victims by year and gender. Besides the surging of victims from 2019 to 2020, we found number of female victims are growing but still accounts for a small part of the total.
 
-![growth_by_sex](https://raw.githubusercontent.com/liziqun/MUSA620_Final_Project/master/assets/charts/growth_by_sex.png)
+![growth_by_sex](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/growth_by_sex.png)
 
 From the perspective of race, victims are majority Africa American for the first sight. Comparing the slope of line, from 2019 to 2020, the growth rate of Africa American victims is far greater than the growth rate of white.
 
-![growth_by_sex](https://raw.githubusercontent.com/liziqun/MUSA620_Final_Project/master/assets/charts/growth_by_sex.png)
+![growth_by_race](hhttps://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/growth_by_race.png)
 
 The victims of gun violence are biased across the gender and race, combining the observation of two maps and considering the 0.868 of male-female ratio and 1.23 of the black-white ratio. We assume that black male is the main group of shooting victims.
 
