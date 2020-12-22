@@ -1,6 +1,6 @@
 ---
 title: " What are people’s attitudes towards Gun Violence on Twitter? "
-date: 2020-12-20T15:34:30-04:00
+date: 2020-12-19T15:34:30-04:00
 published: true
 tags: [python, matplotlib, altair, interactive map]
 excerpt: "Exploratory analysis of shooting victims"
