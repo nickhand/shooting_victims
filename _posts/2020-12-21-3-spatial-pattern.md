@@ -7,6 +7,8 @@ excerpt: "Visualizing the spatial distribution of shooting victims and K-means c
 folium-loader:
   folium-chart-1: ["charts/crime_cluster.html", "400"]
   folium-chart-2: ["charts/average_age.html", "400"]
+hv-loader:
+  shootings-year-chart: "charts/shootings_year.html"
 toc: true
 toc_sticky: true
 ---
@@ -19,6 +21,8 @@ Below is an interactive map point out the location of each shooting victim in 20
 ## Visualizing Number of Victims at a Tract Scale (hvplot & folium)
 ### Year
 Comparing the victims distribution of each year, the hot spot doesn't change too much from 2015 to 2020. Based on the visual obeservation, the high risky area of shrinked from 2019 to 2020. Since the total number of victims surged in 2020, which means victims distribution is highly concentrated this year.(Please [click](https://htmlpreview.github.io/?https://github.com/ihcgnahz/shooting_victims/blob/master/charts/shootings_year.html) here to see the interactive map)
+
+<div id="shootings-year-chart"></div>
 
 ![shootings_time](https://raw.githubusercontent.com/ihcgnahz/shooting_victims/master/charts/shootings_time.gif)
 
