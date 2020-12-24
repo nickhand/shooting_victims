@@ -20,7 +20,7 @@ title: "Shooting Victims in Philadelphia"
 title_separator: "-"
 name: "Chi Zhang"
 description: "Final Project for MUSA550"
-url: "https://github.com/ihcgnahz/shooting_victims"
+url: 
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
