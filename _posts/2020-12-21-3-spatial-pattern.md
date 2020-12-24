@@ -8,7 +8,7 @@ folium-loader:
   folium-chart-1: ["charts/crime_cluster.html", "400"]
   folium-chart-2: ["charts/average_age.html", "400"]
 hv-loader:
-  shootings-year-chart: "charts/shootings_year.html"
+  shootings-year-chart: ["charts/shootings_year.html", "500"]
 toc: true
 toc_sticky: true
 ---
